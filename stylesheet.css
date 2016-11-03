@@ -33,7 +33,7 @@ input[type="button"]{
 }
 
 input[type="button"]:focus{
-    outline: no;
+    outline: 0;
 }
 
 input[type="button"]:disabled{
