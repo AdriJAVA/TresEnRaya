@@ -32,6 +32,10 @@ input[type="button"]{
     font-size: 100px;
 }
 
+input[type="button"]:focus{
+    outline: no;
+}
+
 input[type="button"]:disabled{
     color: black;
 }
