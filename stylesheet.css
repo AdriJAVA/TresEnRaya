@@ -6,10 +6,7 @@
 
 table{
     margin: 200px auto;
-    border-collapse: collapse;
-    clear: both;
-    
-    
+    border-collapse: collapse;        
 }
 tr>td:nth-child(2){
     border-left: 3px solid black;
